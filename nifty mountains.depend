@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1537471130 source:p:\ics4u\igt\coursework-wallace-long\nifty mountains\drawpath.cpp
+	"niftyMountains.h"
+
+1537554935 p:\ics4u\igt\coursework-wallace-long\nifty mountains\niftymountains.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<apvector.h>
+	<apmatrix.h>
+	<cmath>
+	<random>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1537554777 source:p:\ics4u\igt\coursework-wallace-long\nifty mountains\drawrange.cpp
+	"niftyMountains.h"
+
+1537554065 source:p:\ics4u\igt\coursework-wallace-long\nifty mountains\niftymountains.cpp
+	"niftyMountains.h"
+
+1537550660 source:p:\ics4u\igt\coursework-wallace-long\nifty mountains\determinepath.cpp
+	"niftyMountains.h"
+
+1537685309 source:c:\users\longw_000\documents\codeblocks projects\nifty mountains\nifty mountains\drawpath.cpp
+	"niftyMountains.h"
+
+1537731558 c:\users\longw_000\documents\codeblocks projects\nifty mountains\nifty mountains\niftymountains.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<apvector.h>
+	<apmatrix.h>
+	<cmath>
+	<random>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1537642082 source:c:\users\longw_000\documents\codeblocks projects\nifty mountains\nifty mountains\drawrange.cpp
+	"niftyMountains.h"
+
+1537731391 source:c:\users\longw_000\documents\codeblocks projects\nifty mountains\nifty mountains\determinepath.cpp
+	"niftyMountains.h"
+
+1537731415 source:c:\users\longw_000\documents\codeblocks projects\nifty mountains\nifty mountains\niftymountains.cpp
+	"niftyMountains.h"
+
